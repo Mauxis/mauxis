@@ -18,12 +18,22 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="40" alt="Spring Boot logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="40" alt="Java logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" height="40" alt="Angular logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" height="40" alt="Typescript logo"  />
+  <img width="12" />
+</div>
+<div align="justify">
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" height="40" alt="Node.js logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" height="40" alt="Express logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=58811&format=png&color=000000" height="40" alt="React logo"  />
   <img width="12" />
 </div>
 
