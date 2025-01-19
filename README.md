@@ -44,10 +44,3 @@
 <p align="left">Preparando un bonito portafolio. O uno digno al menos.. </p>
 
 ###
-
-<div align="center">
-  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="50" alt="Spring Boot logo"  />
-  <img width="12" />
-</div>
-
-###
